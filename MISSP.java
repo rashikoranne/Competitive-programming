@@ -3,6 +3,9 @@ import java.util.Arrays;
 import java.util.Scanner;
 import java.lang.*;
 import java.io.*;
+/*Chef is fan of pairs and he likes all things that come in pairs. He even has a doll collection in which the dolls come in pairs. One day while going through his collection he found that there are odd number of dolls. Someone had stolen a doll!!!
+
+Help chef find which type of doll is missing..*/
 
 public class MISSP {
     public static void main(String[] args){
