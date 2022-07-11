@@ -1,6 +1,13 @@
 package com.example;
 
 import java.util.Scanner;
+/*For encoding an even-length binary string into a sequence of A, T, C, and G, we iterate from left to right and replace the characters as follows:
+
+00 is replaced with A
+01 is replaced with T
+10 is replaced with C
+11 is replaced with G
+Given a binary string SS of length NN (NN is even), find the encoded sequence.*/
 
 public class DNASTORAGE {
     public static void main (String[] args) throws java.lang.Exception
