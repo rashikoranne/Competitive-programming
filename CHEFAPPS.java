@@ -1,6 +1,10 @@
 package com.example;
 
 import java.util.Scanner;
+/*Chef's phone has a total storage of SS MB. Also, Chef has 22 apps already installed on his phone which occupy XX MB and YY MB respectively.
+
+He wants to install another app on his phone whose memory requirement is ZZ MB. For this, he might have to delete the apps already installed on his phone. 
+Determine the minimum number of apps he has to delete from his phone so that he has enough memory to install the third app.*/
 
 public class CHEFAPPS {
     public static void main(String[] args) {
