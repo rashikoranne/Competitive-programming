@@ -1,6 +1,8 @@
 package com.example;
 
 import java.util.Scanner;
+/*In mathematics, the degree of polynomials in one variable is the highest power of the variable in the algebraic expression with non-zero coefficient.
+Find the degree of the polynomial.*/
 
 public class DPOLY {
     public static void main(String[] args) {
