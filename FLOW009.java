@@ -1,6 +1,8 @@
 package com.example;
 
 import java.util.Scanner;
+/*While purchasing certain items, a discount of 10% is offered if the quantity purchased is more than 1000.
+If the quantity and price per item are input, write a program to calculate the total expenses.*/
 
 public class FLOW009 {
     public static void main(String[] args) throws java.lang.Exception {
