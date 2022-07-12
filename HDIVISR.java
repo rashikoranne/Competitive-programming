@@ -1,6 +1,7 @@
 package com.example;
 
 import java.util.Scanner;
+/*You are given an integer N. Find the largest integer between 1 and 10 (inclusive) which divides N.*/
 
 public class HDIVISR {
     public static void main (String[] args) throws java.lang.Exception
