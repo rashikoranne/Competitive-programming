@@ -1,6 +1,7 @@
 package com.example;
 
 import java.util.Scanner;
+/*Write a program to obtain length (L) and breadth (B) of a rectangle and check whether its area is greater or perimeter is greater or both are equal.*/
 
 public class AREAPERI {
     public static void main(String[] args) throws java.lang.Exception {
