@@ -1,6 +1,7 @@
 package com.example;
 
 import java.util.Scanner;
+/*https://www.codechef.com/submit/GROUPASSGN*/
 
 public class GROUPASSGN {
     public static void main (String[] args) throws java.lang.Exception
