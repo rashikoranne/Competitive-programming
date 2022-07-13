@@ -1,6 +1,7 @@
 package com.example;
 
 import java.util.Scanner;
+/*https://www.codechef.com/submit/CHEFCONTEST*/
 
 public class CHEFCONTEST {
     public static void main (String[] args) throws java.lang.Exception
