@@ -1,6 +1,7 @@
 package com.example;
 
 import java.util.Scanner;
+//https://www.codechef.com/START59D/problems/SPECIALITY
 
 public class speciality {
     public static void main (String[] args) throws java.lang.Exception
