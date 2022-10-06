@@ -1,5 +1,6 @@
 package com.example;
 import java.util.Scanner;
+/*https://www.codechef.com/START59D/problems/HAPPYSTR*/
 
 public class HAPPYSTR {
     public static void main (String[] args) throws java.lang.Exception
