@@ -1,6 +1,7 @@
 #include <iostream>
 #include <list>
 using namespace std;
+//https://www.codechef.com/START59D/problems/SUSSTR
 
 int main(){
     int t;
