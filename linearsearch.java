@@ -1,4 +1,5 @@
 package com.example;
+//linear search algorithm with boolean result if the element is found or not
 
 public class linearsearch {
     public static void main(String[] args) {
