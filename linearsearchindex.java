@@ -1,5 +1,5 @@
 package com.example;
-
+//linear search algo where index is printed if the element is found
 public class linearsearchindex {
     public static void main(String[] args) {
         int[] arr = {1, 2 , 34, 55, 44, 56, 92};
