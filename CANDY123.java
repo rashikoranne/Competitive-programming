@@ -27,7 +27,7 @@ public class CANDY123 {
 		                System.out.println("Bob");
 		                break;
 		            }
-		        }
+			}
             }
             
            
