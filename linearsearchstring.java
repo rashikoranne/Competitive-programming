@@ -22,5 +22,19 @@ public class linearsearchstring {
 
 
     }
+    /* FOR - EACH METHOD
+    static boolean search(String str, char target){
+        if(str.length() == 0){
+            return false;
+        }
+        for each(char ch : str.toCharArray()){
+            if(ch == target){
+                return true;
+            }
+        }
+        return false;
+
+
+    }*/
     
 }
